@@ -1,3 +1,6 @@
 [alias]
 	co = checkout
 	s = status
+[user]
+	name = Forrest Goyer
+	email = fgoyer@keyholesoftware.com
